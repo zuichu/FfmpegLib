@@ -1,0 +1,1 @@
+支持armeabi-v7a和armeabi架构的Android手机
