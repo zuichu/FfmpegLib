@@ -1,1 +1,3 @@
-支持armeabi-v7a和armeabi架构的Android手机
+支持armeabi-v7a和armeabi架构的Android手机。
+
+不断完善中，敬请期待
