@@ -1,3 +1,8 @@
 支持armeabi-v7a和armeabi架构的Android手机。
 
 不断完善中，敬请期待
+
+
+FfmpegLib库，性能优秀，支持命令。持续优化更新拓展中，可时时录制网络视频和直播流，视频剪切等。
+
+EN：FfmpegLib,surport ffmpeg command
