@@ -11,7 +11,7 @@ FfmpegLib库，性能优秀，支持命令。持续优化更新拓展中，可�
 ```java
 FfmpegLib.initFfmpegLib(getApplicationContext(), true);//初始化
     /**
-     * 录制rtmp直播流视频或 其他视频
+     * 录制rtmp直播流视频或其他视频
      *
      * @param tag              ffmpeg执行线程独立标签
      * @param rtmpUrl          rtmp直播流地址
